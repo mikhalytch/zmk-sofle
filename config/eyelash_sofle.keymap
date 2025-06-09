@@ -88,6 +88,7 @@
         quick-tap-ms = <175>;
         require-prior-idle-ms = <150>;
         flavor = "balanced";
+        hold-trigger-on-release;
     };
 
     hmrt: homerow_mods_right_timeless {
@@ -115,6 +116,7 @@
         quick-tap-ms = <175>;
         require-prior-idle-ms = <150>;
         flavor = "balanced";
+        hold-trigger-on-release;
     };
 
     behaviors {
