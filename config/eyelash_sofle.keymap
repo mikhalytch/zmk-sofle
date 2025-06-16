@@ -56,7 +56,6 @@
         quick-tap-ms = <185>;
         require-prior-idle-ms = <125>;
         flavor = "balanced";
-        hold-trigger-on-release;
     };
 
     hmltf: homerow_mods_left_timeless_fast {
@@ -83,7 +82,6 @@
         quick-tap-ms = <185>;
         require-prior-idle-ms = <125>;
         flavor = "balanced";
-        hold-trigger-on-release;
     };
 
     hmrtf: homerow_mods_right_timeless_fst {
