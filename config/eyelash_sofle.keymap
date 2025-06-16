@@ -54,6 +54,7 @@
         quick-tap-ms = <185>;
         require-prior-idle-ms = <125>;
         flavor = "balanced";
+        hold-trigger-on-release;
     };
 
     hmltf: homerow_mods_left_timeless_fast {
@@ -67,6 +68,7 @@
         quick-tap-ms = <185>;
         require-prior-idle-ms = <125>;
         flavor = "balanced";
+        hold-trigger-on-release;
     };
 
     hmrt: homerow_mods_right_timeless {
@@ -80,6 +82,7 @@
         quick-tap-ms = <185>;
         require-prior-idle-ms = <125>;
         flavor = "balanced";
+        hold-trigger-on-release;
     };
 
     hmrtf: homerow_mods_right_timeless_fst {
@@ -93,6 +96,7 @@
         quick-tap-ms = <185>;
         require-prior-idle-ms = <125>;
         flavor = "balanced";
+        hold-trigger-on-release;
     };
 
     ltr: layer_tap_with_repeat {
