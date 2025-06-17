@@ -61,7 +61,7 @@ layers:
   - {t: '$$mdi:keyboard-tab$$', h: 'F, arr, numpad'}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:backspace$$', h: 'fn, rgb'}
-  - {t: RETURN, h: '$$mdi:apple-keyboard-shift$$'}
+  - RETURN
   - $$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
