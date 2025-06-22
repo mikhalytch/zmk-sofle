@@ -133,14 +133,14 @@ layers:
   fn, rgb:
   - $$mdi:brightness-7$$
   - $$mdi:brightness-5$$
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - AL CONTROL PANEL
+  - AC DESKTOP SHOW ALL APPLICATIONS
   - VOICE COMMAND
   - SLEEP
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
-  - PREV
+  - PREVIOUS
   - PLAY PAUSE
-  - NEXT
+  - $$mdi:skip-next$$
   - MUTE
   - VOLUME DOWN
   - VOLUME UP
