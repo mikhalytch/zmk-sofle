@@ -119,7 +119,7 @@ layers:
   - KP ENTER
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:mouse-right-click-outline$$
-  - {t: '$$mdi:transfer$$', type: trans}
+  - RGB COLOR HSB(162,85,47)
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -129,7 +129,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - KP 0
   - KP DOT
-  - {t: '$$mdi:transfer$$', type: trans}
+  - RGB COLOR HSB(159,92,44)
   fn, rgb:
   - $$mdi:brightness-7$$
   - $$mdi:brightness-5$$
@@ -184,7 +184,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - RGB TOG
-  - {t: '$$mdi:transfer$$', type: trans}
+  - RGB COLOR HSB(215,93,47)
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -194,7 +194,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - RGB COLOR HSB(222,96,45)
   keeb sys:
   - {t: '$$mdi:transfer$$', type: trans}
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
@@ -249,7 +249,7 @@ layers:
   - $$mdi:progress-download$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - RGB COLOR HSB(33,100,38)
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -259,4 +259,4 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - RGB COLOR HSB(29,94,40)
