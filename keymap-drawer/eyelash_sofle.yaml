@@ -56,14 +56,14 @@ layers:
   - $$mdi:volume-off$$
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-option$$
-  - $$mdi:keyboard-tab$$
+  - LGUI
   - {t: '$$mdi:keyboard-tab$$', h: 'F, arr, numpad'}
   - $$mdi:keyboard-space$$
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: RETURN, h: 'fn, rgb'}
   - $$mdi:backspace-reverse-outline$$
-  - RGUI
+  - $$mdi:apple-keyboard-option$$
   - $$mdi:apple-keyboard-control$$
   F, arr, numpad:
   - F1
