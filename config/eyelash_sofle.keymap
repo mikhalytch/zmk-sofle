@@ -130,15 +130,7 @@
     behaviors {
     };
 
-    combos {
-        compatible = "zmk,combos";
-
-        softoff {
-            bindings = <&soft_off>;
-            key-positions = <14 28 40>;
-            layers = <3>;
-        };
-    };
+    combos { compatible = "zmk,combos"; };
 
     keymap {
         compatible = "zmk,keymap";
