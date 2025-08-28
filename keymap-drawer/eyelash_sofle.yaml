@@ -325,7 +325,3 @@ layers:
   - $$mdi:backspace-reverse-outline$$
   - RGUI
   - $$mdi:apple-keyboard-control$$
-combos:
-- p: [14, 28, 40]
-  k: '&soft_off'
-  l: [keeb sys]
