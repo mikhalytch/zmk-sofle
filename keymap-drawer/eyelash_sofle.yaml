@@ -177,8 +177,8 @@ layers:
   - RGB SPI
   - RGB SPD
   - {t: '$$mdi:transfer$$', type: trans}
-  - RGB BRI
   - RGB BRD
+  - RGB BRI
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
