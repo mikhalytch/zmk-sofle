@@ -164,11 +164,11 @@
         L2_fn {
             display-name = "fn, rgb";
             bindings = <
-&kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC  &kp C_AL_CONTROL_PANEL  &kp C_AC_DESKTOP_SHOW_ALL_APPLICATIONS  &kp C_VOICE_COMMAND  &kp C_SLEEP        &mmv MOVE_UP     &kp C_PREVIOUS   &kp C_PLAY_PAUSE  &kp C_NEXT  &kp K_MUTE  &kp K_VOLUME_DOWN  &kp K_VOLUME_UP
-&trans                &trans                &mkp LCLK               &mkp MCLK                               &mkp RCLK            &mkp MB4           &mmv MOVE_DOWN   &trans           &trans            &trans      &trans      &trans             &trans
-&trans                &trans                &trans                  &trans                                  &trans               &mkp MB5           &mmv MOVE_LEFT   &trans           &trans            &trans      &trans      &trans             &trans
-&rgb_ug RGB_OFF       &rgb_ug RGB_ON        &rgb_ug RGB_EFF         &rgb_ug RGB_EFR                         &rgb_ug RGB_SPI      &rgb_ug RGB_SPD    &mmv MOVE_RIGHT  &rgb_ug RGB_BRI  &rgb_ug RGB_BRD   &trans      &trans      &trans             &trans
-&rgb_ug RGB_TOG       &trans                &trans                  &trans                                  &trans               &trans             &mkp LCLK        &trans           &trans            &trans      &trans      &trans
+&kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC  &kp C_AL_CONTROL_PANEL  &kp C_AC_DESKTOP_SHOW_ALL_APPLICATIONS  &kp C_VOICE_COMMAND  &kp C_SLEEP        &trans  &kp C_PREVIOUS   &kp C_PLAY_PAUSE  &kp C_NEXT  &kp K_MUTE  &kp K_VOLUME_DOWN  &kp K_VOLUME_UP
+&trans                &trans                &mkp LCLK               &mkp MCLK                               &mkp RCLK            &mkp MB4           &trans  &trans           &trans            &trans      &trans      &trans             &trans
+&trans                &trans                &trans                  &trans                                  &trans               &mkp MB5           &trans  &trans           &trans            &trans      &trans      &trans             &trans
+&rgb_ug RGB_OFF       &rgb_ug RGB_ON        &rgb_ug RGB_EFF         &rgb_ug RGB_EFR                         &rgb_ug RGB_SPI      &rgb_ug RGB_SPD    &trans  &rgb_ug RGB_BRI  &rgb_ug RGB_BRD   &trans      &trans      &trans             &trans
+&rgb_ug RGB_TOG       &trans                &trans                  &trans                                  &trans               &trans             &trans  &trans           &trans            &trans      &trans      &trans
             >;
 
             sensor-bindings = <&scroll_encoder_rgb>;
