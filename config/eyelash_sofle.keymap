@@ -154,7 +154,7 @@
 &trans     &trans  &kp HOME        &kp UP_ARROW    &kp PAGE_UP      &trans    &mmv MOVE_DOWN   &trans     &trans     &trans    &trans    &trans   &trans
 &trans     &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans    &mmv MOVE_LEFT   &kp RCTRL  &kp RSHFT  &kp LALT  &kp RGUI  &trans   &trans
 &trans     &trans  &kp END         &kp DOWN_ARROW  &kp PAGE_DOWN    &trans    &mmv MOVE_RIGHT  &trans     &trans     &trans    &trans    &trans   &trans
-&mkp RCLK  &trans  &trans          &trans          &trans           &trans    &mkp LCLK        &trans     &trans     &trans    &trans    &trans
+&mkp LCLK  &trans  &trans          &trans          &trans           &trans    &mkp RCLK        &trans     &trans     &trans    &trans    &trans
             >;
 
             display-name = "F, arr, numpad";
